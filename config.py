@@ -1,0 +1,10 @@
+path = r'C:\Users\suren\Downloads\chromedriver_win32 (1)\chromedriver.exe'
+browser = 'CHROME'
+testdata_file = r'C:\Users\suren\Desktop\mysoft\python\opym5\framework\data\TESTDATA.xlsx'
+register_file = r'C:\Users\suren\Desktop\mysoft\python\opym5\framework\data\locators.xlsx'
+login_testcase_name = 'login_tc'
+login_locator_name = 'login_web'
+desktop_locator_page = 'desktop_web'
+billing_locator_page = 'Billing_page'
+e2e_tc_page = 'end_to_end_tc'
+url = r"http://demowebshop.tricentis.com"
